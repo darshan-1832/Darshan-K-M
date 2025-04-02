@@ -1,5 +1,5 @@
 # Darshan K M
-🎓 M.Tech Data Science | 📊 Automation Tester | 🤖 Aspiring Data Scientist/AI/ML Engineer
+🎓 M.Tech Data Science | 📊 Ex-Automation Tester | 🤖 Aspiring Data Scientist/AI/ML Engineer
 
 ## 💼 Experience  
 **Senior Software Engineer, Capgemini**  
