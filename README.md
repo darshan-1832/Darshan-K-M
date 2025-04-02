@@ -36,7 +36,7 @@
 
 ## 📂 Projects and Publications
 - [Smart access development for classifying lung disease with chest x-ray images using deep learning](https://www.researchgate.net/publication/350986588_Smart_access_development_for_classifying_lung_disease_with_chest_x-ray_images_using_deep_learning)
-- [Sentiment Analysis of Amazon Customer Reviews] (https://github.com/darshan-1832/Sentiment-Analysis-on-Amazon-Customer-Reviews/tree/main)
+- [Sentiment Analysis of Amazon Customer Reviews](https://github.com/darshan-1832/Sentiment-Analysis-on-Amazon-Customer-Reviews/tree/main)
 
 ## 🥇 Achievements
 - **Data Analyst Pro (70%)** – TCS iON National Proficiency Test (TCS iON NPT) 
